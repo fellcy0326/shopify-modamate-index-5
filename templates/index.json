@@ -862,6 +862,7 @@
         "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-0": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/p-10_200x_0b28721c-6f0f-4768-936e-a3764168938d.png",
             "title_policy": "30 DAYS RETURN",
             "desc_policy": "<p>Simply return it within 30 days for an exchange.</p>",
             "tl": "",
@@ -872,6 +873,7 @@
         "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-1": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/p-8_200x_65b6c547-4723-4975-a983-d4779886c6e9.webp",
             "title_policy": "FREE US DELIVERY",
             "desc_policy": "<p>On orders over $200!</p>",
             "tl": "",
@@ -882,6 +884,7 @@
         "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-2": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/p-12_200x_d6babb8c-4133-4bee-8f37-131ba8a4b504.webp",
             "title_policy": "Support 24/7",
             "desc_policy": "<p>Contact us 24 hours a day, 7 days a week</p>",
             "tl": "",

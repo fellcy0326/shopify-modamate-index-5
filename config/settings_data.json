@@ -183,8 +183,9 @@
         "blocks": {
           "93ea3501-be40-49e7-9b08-bd6c912e4509": {
             "type": "text",
+            "name": "Luggage Megamenu Item",
             "settings": {
-              "novmenu_item": "Collection",
+              "novmenu_item": "Luggage",
               "desc": "",
               "fw": true,
               "novmenu_menu_enable": true,

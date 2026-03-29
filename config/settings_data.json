@@ -238,8 +238,9 @@
           },
           "c4d762cf-b0df-4827-a41d-7a2e922a300e": {
             "type": "text",
+            "name": "Bags Megamenu Item",
             "settings": {
-              "novmenu_item": "Products",
+              "novmenu_item": "Bags",
               "desc": "",
               "fw": true,
               "novmenu_menu_enable": true,

@@ -367,7 +367,7 @@
             "type": "block_menu",
             "settings": {
               "block_title": "HELP & SUPPORT",
-              "menu_handle": "",
+              "menu_handle": "help-support",
               "block_class": "",
               "grid_xl": "col-xl-3",
               "grid_lg": "col-lg-4",

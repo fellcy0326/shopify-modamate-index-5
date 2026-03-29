@@ -933,19 +933,27 @@
       "blocks": {
         "e8069628-9f10-44e6-a4d5-1c7b466ba25c-1679129786d079e8eb-0": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/img-3-9_600x600_crop_center_e7dd056c-64f8-4ca7-93e7-74610fa18a5b.webp"
+          }
         },
         "e8069628-9f10-44e6-a4d5-1c7b466ba25c-1679129786d079e8eb-1": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/img-3-10_600x600_crop_center_46b0292f-01d9-4053-becf-696e34403871.webp"
+          }
         },
         "e8069628-9f10-44e6-a4d5-1c7b466ba25c-1679129786d079e8eb-2": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/img-3-11_600x600_crop_center_9fbbaf15-da60-44f3-bd0c-9d3e102a6d87.webp"
+          }
         },
         "e8069628-9f10-44e6-a4d5-1c7b466ba25c-1679129786d079e8eb-3": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/img-3-12_600x600_crop_center_ef247753-1058-4c21-aa96-de4e60ba7210.jpg"
+          }
         }
       },
       "block_order": [

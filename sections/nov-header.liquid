@@ -55,9 +55,9 @@
             <div class="contentsticky_menu d-none d-xl-block">
               <nav id="AccessibleNav">{% include 'site-nav' %}</nav>
             </div>
-            <div class="contentsticky_search site-header__search">
+            {% comment %} <div class="contentsticky_search site-header__search">
               {% include 'nov-formsearch-inline' %}
-            </div>
+            </div> {% endcomment %}
             <div class="header-group-item d-flex align-items-center">
               <div class="contentsticky_myaccount site-header_myaccount pointer text-center">
                 {% if shop.customer_accounts_enabled %}

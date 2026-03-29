@@ -330,6 +330,8 @@
         "112c6ebf-0d3e-4474-a810-89df30908ec0-1671855192387fbb9b-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/s-3_2048x_f20b314e-368c-41e6-a6a8-4f566ea27728.webp",
+            "img_xs": "shopify://shop_images/s-3_2048x_f20b314e-368c-41e6-a6a8-4f566ea27728.webp",
             "img_animate": true,
             "position_img": "Width: 50%; Left:10%; Top: 40%",
             "position_xl_img": "Width: 50%; Left:10%; Top: 50%",

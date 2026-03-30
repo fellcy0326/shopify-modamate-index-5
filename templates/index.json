@@ -492,7 +492,7 @@
             "image": "shopify://shop_images/img-2_768x_18dec664-aeaa-4115-b6d4-7142d8f19cd6.png",
             "img_xs": "shopify://shop_images/img-2_768x_18dec664-aeaa-4115-b6d4-7142d8f19cd6.png",
             "link": "#",
-            "cta_label": "Luggage & Suitcases",
+            "cta_label": "Luggage",
             "cta_label_c": "#ffffff",
             "cta_label_n": 22,
             "cta_label2": "",
@@ -515,7 +515,7 @@
           "settings": {
             "image": "shopify://shop_images/img-3_768x_a12c047b-fa2e-4e6e-9b8a-29118c30ed38.webp",
             "link": "#",
-            "cta_label": "",
+            "cta_label": "Bags",
             "cta_label_c": "#ffffff",
             "cta_label_n": 22,
             "cta_label2": "",

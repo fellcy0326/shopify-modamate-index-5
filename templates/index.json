@@ -589,9 +589,10 @@
         "b28d5555-8555-476a-99d0-5cdcb296f7b1-16728939961f6f19b6-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/img-5_1080x_d9345cf2-3ffb-45cf-88be-6630b2dbdbe8.webp",
+            "image": "shopify://shop_images/img-5_1080x_d9345cf2-3ffb-45cf-88be-6630b2dbdbe8.png",
+            "img_xs": "shopify://shop_images/img-5_1080x_d9345cf2-3ffb-45cf-88be-6630b2dbdbe8.png",
             "link": "#",
-            "cta_label": "",
+            "cta_label": "Clothing",
             "cta_label_c": "#ffffff",
             "cta_label_n": 18,
             "cta_label2": "",

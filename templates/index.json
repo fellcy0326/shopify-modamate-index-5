@@ -489,7 +489,8 @@
         "7468b340-cf51-429f-bc51-4288984ba785-1673511806b95f9833-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/img-2_768x_18dec664-aeaa-4115-b6d4-7142d8f19cd6.webp",
+            "image": "shopify://shop_images/img-2_768x_18dec664-aeaa-4115-b6d4-7142d8f19cd6.png",
+            "img_xs": "shopify://shop_images/img-2_768x_18dec664-aeaa-4115-b6d4-7142d8f19cd6.png",
             "link": "#",
             "cta_label": "Luggage",
             "cta_label_c": "#ffffff",

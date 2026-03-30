@@ -537,9 +537,10 @@
         "42fd6276-a7b0-44f8-8ecc-b8164921dde1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/img-4_768x_ca29c751-c5dc-4af7-842e-9ead1bbb0970.webp",
+            "image": "shopify://shop_images/img-4_768x_ca29c751-c5dc-4af7-842e-9ead1bbb0970.png",
+            "img_xs": "shopify://shop_images/img-4_768x_ca29c751-c5dc-4af7-842e-9ead1bbb0970.png",
             "link": "#",
-            "cta_label": "",
+            "cta_label": "Shoe",
             "cta_label_c": "#222222",
             "cta_label_n": 22,
             "cta_label2": "",

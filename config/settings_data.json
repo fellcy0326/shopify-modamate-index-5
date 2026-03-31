@@ -438,6 +438,7 @@
           "bg_b_opacity": 100,
           "logo": "shopify://shop_images/Fellcy.png",
           "w_logo": 155,
+          "logo_mobile": "shopify://shop_images/Fellcy.png",
           "wm_logo": 102,
           "stickymenu": true,
           "c_i_sticky": "#222222",

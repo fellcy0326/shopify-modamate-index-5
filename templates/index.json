@@ -672,28 +672,28 @@
           "type": "tabitem",
           "settings": {
             "tab_title": "Bags",
-            "collection_handle": "funny-quote"
+            "collection_handle": "new-arrivals"
           }
         },
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-2": {
           "type": "tabitem",
           "settings": {
             "tab_title": "Shoes",
-            "collection_handle": "men"
+            "collection_handle": "new-arrivals"
           }
         },
         "tabitem_QeRYgM": {
           "type": "tabitem",
           "settings": {
             "tab_title": "Clothing",
-            "collection_handle": "men"
+            "collection_handle": "new-arrivals"
           }
         },
         "tabitem_tRB6zb": {
           "type": "tabitem",
           "settings": {
             "tab_title": "Accessories",
-            "collection_handle": "men"
+            "collection_handle": "new-arrivals"
           }
         }
       },

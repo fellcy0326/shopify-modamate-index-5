@@ -1185,8 +1185,8 @@
       "settings": {
         "heading": "<p>LET CUSTOMERS SPEAK FOR US</p>",
         "heading_c": "#222222",
-        "subheading": "<h6>Real feedback from customers who travel with Fellcy every day</h6>",
-        "subheading_c": "#666666",
+        "subheading": "<p>REAL FEEDBACK FROM CUSTOMERS WHO TRAVEL WITH US EVERY DAY</p>",
+        "subheading_c": "#a3a3a3",
         "title_alignment": "text-center",
         "xl": 3,
         "lg": 3,

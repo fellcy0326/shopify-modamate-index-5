@@ -768,42 +768,21 @@
             "b_btn_h": "#dd5621"
           }
         },
-        "8ca94ba4-99b0-4635-bf7c-c5347e242700-1679112756f3b6ca68-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/img-9_1296x_3519d24f-5a7b-4606-8a33-f0a383c82fea.webp",
-            "link": "#",
-            "align": "text-center",
-            "title": "",
-            "t_c": "#222222",
-            "t_s": 13,
-            "t_s_md": 13,
-            "stitle": "",
-            "st_c": "#666666",
-            "st_s": 13,
-            "st_s_md": 13,
-            "btn": "Read more",
-            "c_btn": "#000000",
-            "b_btn": "#ffffff",
-            "c_btn_h": "#ffffff",
-            "b_btn_h": "#dd5621"
-          }
-        },
-        "8ca94ba4-99b0-4635-bf7c-c5347e242700-1679112756f3b6ca68-2": {
+        "image_w8Dggm": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/img-8_1296x_8bb3f221-1a1a-4733-9498-0fc45aa76f18.png",
             "link": "#",
             "align": "text-center",
-            "title": "",
-            "t_c": "#222222",
-            "t_s": 13,
-            "t_s_md": 13,
-            "stitle": "",
-            "st_c": "#666666",
+            "title": "Designed for Everyday Movement",
+            "t_c": "#ffffff",
+            "t_s": 22,
+            "t_s_md": 16,
+            "stitle": "Modern design meets functional style, crafted to move with you wherever you go",
+            "st_c": "#ffffff",
             "st_s": 13,
             "st_s_md": 13,
-            "btn": "Read more",
+            "btn": "Shop Now",
             "c_btn": "#000000",
             "b_btn": "#ffffff",
             "c_btn_h": "#ffffff",
@@ -813,8 +792,7 @@
       },
       "block_order": [
         "8ca94ba4-99b0-4635-bf7c-c5347e242700-1679112756f3b6ca68-0",
-        "8ca94ba4-99b0-4635-bf7c-c5347e242700-1679112756f3b6ca68-1",
-        "8ca94ba4-99b0-4635-bf7c-c5347e242700-1679112756f3b6ca68-2"
+        "image_w8Dggm"
       ],
       "settings": {
         "auto": true,

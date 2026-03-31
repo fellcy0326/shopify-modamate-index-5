@@ -885,6 +885,13 @@
         "tabitem_8XjtJk": {
           "type": "tabitem",
           "settings": {
+            "tab_title": "All",
+            "collection_handle": "new-arrivals-1"
+          }
+        },
+        "tabitem_cPcAkJ": {
+          "type": "tabitem",
+          "settings": {
             "tab_title": "Luggage",
             "collection_handle": "new-arrivals-1"
           }
@@ -920,6 +927,7 @@
       },
       "block_order": [
         "tabitem_8XjtJk",
+        "tabitem_cPcAkJ",
         "tabitem_XJiHVN",
         "tabitem_49xXBE",
         "tabitem_379dLb",

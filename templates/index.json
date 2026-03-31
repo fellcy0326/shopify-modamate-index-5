@@ -866,15 +866,15 @@
     "d8b810c5-1e86-4f87-b456-ced41e248932": {
       "type": "nov-policy",
       "blocks": {
-        "item_policy_Y9zCi7": {
+        "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-1": {
           "type": "item_policy",
           "settings": {
-            "policy_icon": "shopify://shop_images/p-12_200x_d6babb8c-4133-4bee-8f37-131ba8a4b504.webp",
-            "title_policy": "SECURE SHOPPING",
-            "desc_policy": "<p>All orders and personal info on or site are transmitted through a secure server using Secure Socket Layering (SSL).</p>",
+            "policy_icon": "shopify://shop_images/p-8_200x_65b6c547-4723-4975-a983-d4779886c6e9.webp",
+            "title_policy": "FREE US DELIVERY",
+            "desc_policy": "<p>Complimentary shipping on all US orders over $200 with reliable delivery</p>",
             "tl": "",
             "link": "",
-            "class": ""
+            "class": "mb-sm-30"
           }
         },
         "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-0": {
@@ -882,29 +882,29 @@
           "settings": {
             "policy_icon": "shopify://shop_images/p-10_200x_0b28721c-6f0f-4768-936e-a3764168938d.png",
             "title_policy": "30 DAYS RETURN",
-            "desc_policy": "<p>Simply return it within 30 days for an exchange.</p>",
+            "desc_policy": "<p>Enjoy hassle-free returns within 30 days for a smooth shopping experience</p>",
             "tl": "",
             "link": "",
             "class": "mb-sm-30"
           }
         },
-        "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-1": {
+        "item_policy_Y9zCi7": {
           "type": "item_policy",
           "settings": {
-            "policy_icon": "shopify://shop_images/p-8_200x_65b6c547-4723-4975-a983-d4779886c6e9.webp",
-            "title_policy": "FREE US DELIVERY",
-            "desc_policy": "<p>On orders over $200!</p>",
+            "policy_icon": "shopify://shop_images/p-12_200x_d6babb8c-4133-4bee-8f37-131ba8a4b504.webp",
+            "title_policy": "SECURE SHOPPING",
+            "desc_policy": "<p>Your checkout is protected with advanced SSL encryption for complete security</p>",
             "tl": "",
             "link": "",
-            "class": "mb-sm-30"
+            "class": ""
           }
         },
         "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-2": {
           "type": "item_policy",
           "settings": {
             "policy_icon": "shopify://shop_images/p-12_200x_d6babb8c-4133-4bee-8f37-131ba8a4b504.webp",
-            "title_policy": "Support 24/7",
-            "desc_policy": "<p>Contact us 24 hours a day, 7 days a week</p>",
+            "title_policy": "SUPPORT 24/7",
+            "desc_policy": "<p>Our dedicated support team is available 24/7 to assist you anytime</p>",
             "tl": "",
             "link": "",
             "class": ""
@@ -912,9 +912,9 @@
         }
       },
       "block_order": [
-        "item_policy_Y9zCi7",
-        "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-0",
         "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-1",
+        "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-0",
+        "item_policy_Y9zCi7",
         "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-2"
       ],
       "settings": {

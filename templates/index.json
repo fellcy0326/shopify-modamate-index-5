@@ -871,7 +871,7 @@
           "settings": {
             "policy_icon": "shopify://shop_images/p-8_200x_65b6c547-4723-4975-a983-d4779886c6e9.webp",
             "title_policy": "FREE US DELIVERY",
-            "desc_policy": "<p>Complimentary shipping on all US orders over $200 with reliable delivery</p>",
+            "desc_policy": "<p>Complimentary shipping on all US orders over $250 with reliable delivery</p>",
             "tl": "",
             "link": "",
             "class": "mb-sm-30"

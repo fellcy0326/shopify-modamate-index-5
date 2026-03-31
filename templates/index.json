@@ -713,9 +713,9 @@
         "tabitem_tRB6zb"
       ],
       "settings": {
-        "heading": "<p>Best Sellers</p>",
+        "heading": "<p>CUSTOMER FAVORITES</p>",
         "heading_c": "#222222",
-        "subheading": "<p>Explore our most popular pieces, trusted by travelers for their performance and style</p>",
+        "subheading": "<p>Discover our most loved pieces, chosen by customers for their quality and style</p>",
         "subheading_c": "#666666",
         "title_alignment": "text-center",
         "xxl": 3,
@@ -942,7 +942,7 @@
         "tabitem_tbHFn9"
       ],
       "settings": {
-        "heading": "<p>New Arrivals</p>",
+        "heading": "<p>NEW ARRIVALS</p>",
         "heading_c": "#222222",
         "subheading": "<p>Discover the latest arrivals, thoughtfully designed to elevate your everyday travel</p>",
         "subheading_c": "#666666",

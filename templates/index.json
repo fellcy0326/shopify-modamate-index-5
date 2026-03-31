@@ -39,21 +39,21 @@
           "type": "item",
           "settings": {
             "icon": "zmdi zmdi-flash",
-            "t": "<p>FREE SHIPPING ON ALL US ORDER OR ORDER ABOVE $200</p>"
+            "t": "<p>FREE US SHIPPING ON ORDERS OVER $250</p>"
           }
         },
         "ec83bf9c-886b-4a7f-9e39-ab6c8ba34ed2-1679107132d3fbf313-1": {
           "type": "item",
           "settings": {
             "icon": "zmdi zmdi-flash",
-            "t": "<p>FREE SHIPPING ON ALL US ORDER OR ORDER ABOVE $200</p>"
+            "t": "<p>HASSLE-FREE RETURNS WITHIN 30 DAYS</p>"
           }
         },
         "ec83bf9c-886b-4a7f-9e39-ab6c8ba34ed2-1679107132d3fbf313-2": {
           "type": "item",
           "settings": {
             "icon": "zmdi zmdi-flash",
-            "t": "<p>FREE SHIPPING ON ALL US ORDER OR ORDER ABOVE $200</p>"
+            "t": "<p>SECURE CHECKOUT WITH SSL PROTECTION</p>"
           }
         },
         "7baa7e32-a93b-4967-920c-ece117f9e391": {

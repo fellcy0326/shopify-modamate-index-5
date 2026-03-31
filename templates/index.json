@@ -879,6 +879,7 @@
         "edde0110-7127-4e43-acfb-dcdb0e2c51af-16791286769ebb1bfc-1",
         "edde0110-7127-4e43-acfb-dcdb0e2c51af-16791286769ebb1bfc-0"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_c": "#222222",
@@ -893,6 +894,53 @@
         "class": "",
         "distance_top": 30,
         "distance_bottom": 120
+      }
+    },
+    "nov_product_single_Hj3mLA": {
+      "type": "nov-product-single",
+      "blocks": {
+        "image_LkGTQf": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "image_LkGTQf"
+      ],
+      "name": "Vinova Product Single",
+      "settings": {
+        "heading": "<p>Vinova Product Single</p>",
+        "heading_c": "#222222",
+        "subheading": "<p>Subtitle from happy customers</p>",
+        "subheading_c": "#666666",
+        "autoplay": true,
+        "autoplay_speed": "4000",
+        "border_radius": 0,
+        "product_handle": "",
+        "aspect": "34",
+        "enable_zoom": true,
+        "xl": 4,
+        "lg": 1,
+        "md": 1,
+        "sm": 1,
+        "xs": 1,
+        "show_sizeguide": true,
+        "show_desc": true,
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu dolor at dolor gravida porta sit amet pharetra neque.",
+        "sdesc1": "MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS",
+        "sdesc2": "DO NOT BLEACH",
+        "sdesc3": "",
+        "sdesc4": "",
+        "sdesc5": "",
+        "sdesc6": "",
+        "sdesc7": "",
+        "show_nav": false,
+        "animate": true,
+        "container": "container",
+        "background_color": "",
+        "class": "",
+        "distance_top": 30,
+        "distance_bottom": 30
       }
     },
     "f3383534-6809-4d13-9248-61b1ec35cbe1": {
@@ -1554,6 +1602,7 @@
     "80cd93df-e4f2-4f43-b2dd-49e03c87eb60",
     "8ca94ba4-99b0-4635-bf7c-c5347e242700",
     "edde0110-7127-4e43-acfb-dcdb0e2c51af",
+    "nov_product_single_Hj3mLA",
     "f3383534-6809-4d13-9248-61b1ec35cbe1",
     "nov_collection_tabs_MDWiLg",
     "d8b810c5-1e86-4f87-b456-ced41e248932",

@@ -879,6 +879,7 @@
         "edde0110-7127-4e43-acfb-dcdb0e2c51af-16791286769ebb1bfc-1",
         "edde0110-7127-4e43-acfb-dcdb0e2c51af-16791286769ebb1bfc-0"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_c": "#222222",
@@ -906,12 +907,11 @@
       "block_order": [
         "image_LkGTQf"
       ],
-      "disabled": true,
       "name": "Vinova Product Single",
       "settings": {
-        "heading": "<p>Vinova Product Single</p>",
+        "heading": "",
         "heading_c": "#222222",
-        "subheading": "<p>Subtitle from happy customers</p>",
+        "subheading": "",
         "subheading_c": "#666666",
         "autoplay": true,
         "autoplay_speed": "4000",
@@ -940,7 +940,7 @@
         "background_color": "",
         "class": "",
         "distance_top": 30,
-        "distance_bottom": 30
+        "distance_bottom": 120
       }
     },
     "f3383534-6809-4d13-9248-61b1ec35cbe1": {

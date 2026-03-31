@@ -865,38 +865,68 @@
         "distance_bottom": 120
       }
     },
-    "nov_collection_tabs_DpMxVG": {
+    "f3383534-6809-4d13-9248-61b1ec35cbe1": {
+      "type": "nov-line",
+      "settings": {
+        "height": 1,
+        "color": "#eaeaea",
+        "style": "solid",
+        "opacity": 100,
+        "animate": true,
+        "has_fullwidth": true,
+        "class": "",
+        "distance_top": 30,
+        "distance_bottom": 30
+      }
+    },
+    "nov_collection_tabs_MDWiLg": {
       "type": "nov-collection-tabs",
       "blocks": {
-        "tabitem_TmhJMp": {
+        "tabitem_8XjtJk": {
           "type": "tabitem",
           "settings": {
-            "tab_title": "New Arrivals",
-            "collection_handle": "new-arrivals"
+            "tab_title": "Luggage",
+            "collection_handle": "new-arrivals-1"
           }
         },
-        "tabitem_KWa3Aj": {
+        "tabitem_XJiHVN": {
           "type": "tabitem",
           "settings": {
-            "tab_title": "Best Sellers",
-            "collection_handle": "funny-quote"
+            "tab_title": "Bags",
+            "collection_handle": "new-arrivals-1"
           }
         },
-        "tabitem_k7Vy3q": {
+        "tabitem_49xXBE": {
           "type": "tabitem",
           "settings": {
-            "tab_title": "On Sale",
-            "collection_handle": "men"
+            "tab_title": "Shoes",
+            "collection_handle": "new-arrivals-1"
+          }
+        },
+        "tabitem_379dLb": {
+          "type": "tabitem",
+          "settings": {
+            "tab_title": "Clothing",
+            "collection_handle": "new-arrivals-1"
+          }
+        },
+        "tabitem_tbHFn9": {
+          "type": "tabitem",
+          "settings": {
+            "tab_title": "Accessories",
+            "collection_handle": "new-arrivals-1"
           }
         }
       },
       "block_order": [
-        "tabitem_TmhJMp",
-        "tabitem_KWa3Aj",
-        "tabitem_k7Vy3q"
+        "tabitem_8XjtJk",
+        "tabitem_XJiHVN",
+        "tabitem_49xXBE",
+        "tabitem_379dLb",
+        "tabitem_tbHFn9"
       ],
       "settings": {
-        "heading": "<p>New Arrivals</p>",
+        "heading": "<p>Best Sellers</p>",
         "heading_c": "#222222",
         "subheading": "",
         "subheading_c": "#666666",
@@ -925,20 +955,6 @@
         "class": "",
         "distance_top": 95,
         "distance_bottom": 85
-      }
-    },
-    "f3383534-6809-4d13-9248-61b1ec35cbe1": {
-      "type": "nov-line",
-      "settings": {
-        "height": 1,
-        "color": "#eaeaea",
-        "style": "solid",
-        "opacity": 100,
-        "animate": true,
-        "has_fullwidth": true,
-        "class": "",
-        "distance_top": 30,
-        "distance_bottom": 30
       }
     },
     "d8b810c5-1e86-4f87-b456-ced41e248932": {
@@ -1320,8 +1336,8 @@
     "80cd93df-e4f2-4f43-b2dd-49e03c87eb60",
     "8ca94ba4-99b0-4635-bf7c-c5347e242700",
     "edde0110-7127-4e43-acfb-dcdb0e2c51af",
-    "nov_collection_tabs_DpMxVG",
     "f3383534-6809-4d13-9248-61b1ec35cbe1",
+    "nov_collection_tabs_MDWiLg",
     "d8b810c5-1e86-4f87-b456-ced41e248932",
     "e8069628-9f10-44e6-a4d5-1c7b466ba25c",
     "eb943b35-6685-4229-89ba-ea2a316b21e0",

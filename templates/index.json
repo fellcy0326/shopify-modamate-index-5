@@ -707,7 +707,7 @@
       "settings": {
         "heading": "<p>Best Sellers</p>",
         "heading_c": "#222222",
-        "subheading": "",
+        "subheading": "<p>Explore our most popular pieces, trusted by travelers for their performance and style</p>",
         "subheading_c": "#666666",
         "title_alignment": "text-center",
         "xxl": 3,
@@ -928,7 +928,7 @@
       "settings": {
         "heading": "<p>New Arrivals</p>",
         "heading_c": "#222222",
-        "subheading": "",
+        "subheading": "<p>Discover the latest arrivals, thoughtfully designed to elevate your everyday travel</p>",
         "subheading_c": "#666666",
         "title_alignment": "text-center",
         "xxl": 3,

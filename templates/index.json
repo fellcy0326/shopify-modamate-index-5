@@ -879,7 +879,6 @@
         "edde0110-7127-4e43-acfb-dcdb0e2c51af-16791286769ebb1bfc-1",
         "edde0110-7127-4e43-acfb-dcdb0e2c51af-16791286769ebb1bfc-0"
       ],
-      "disabled": true,
       "settings": {
         "heading": "",
         "heading_c": "#222222",
@@ -907,6 +906,7 @@
       "block_order": [
         "image_LkGTQf"
       ],
+      "disabled": true,
       "name": "Vinova Product Single",
       "settings": {
         "heading": "<p>Vinova Product Single</p>",

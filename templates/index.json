@@ -817,7 +817,7 @@
         "8ca94ba4-99b0-4635-bf7c-c5347e242700-1679112756f3b6ca68-2"
       ],
       "settings": {
-        "auto": false,
+        "auto": true,
         "time": 3,
         "s_dot": false,
         "s_nav": true,

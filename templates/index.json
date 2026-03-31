@@ -809,12 +809,34 @@
             "c_btn_h": "#ffffff",
             "b_btn_h": "#dd5621"
           }
+        },
+        "image_64tJDr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/img-7_1080x_0030e717-994f-4f99-b0d8-f088aef7d183.png",
+            "link": "#",
+            "align": "text-center",
+            "title": "Modern Style, Made to Move",
+            "t_c": "#ffffff",
+            "t_s": 22,
+            "t_s_md": 16,
+            "stitle": "Versatile outfits built for the rhythm of everyday city life",
+            "st_c": "#ffffff",
+            "st_s": 13,
+            "st_s_md": 13,
+            "btn": "Shop Now",
+            "c_btn": "#000000",
+            "b_btn": "#ffffff",
+            "c_btn_h": "#ffffff",
+            "b_btn_h": "#dd5621"
+          }
         }
       },
       "block_order": [
         "8ca94ba4-99b0-4635-bf7c-c5347e242700-1679112756f3b6ca68-0",
         "image_w8Dggm",
-        "image_q94N4r"
+        "image_q94N4r",
+        "image_64tJDr"
       ],
       "settings": {
         "auto": true,

@@ -457,8 +457,8 @@
           "f07c73bb-d27e-4c8f-aa9f-0b297a5f79aa": {
             "type": "block_html",
             "settings": {
-              "block_title": "",
-              "html_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula ex aliquet, commodo nisl et, mattis lorem. Pellentesque sit amet volutpat ligula, id vestibulum ligula. Cras in molestie felis, id facilisis ante. \n<br>\n<br>\nMorbi ullamcorper ligula sit amet efficitur pellentesque. Aliquam ornare quam tellus, ultricies molestie tortor suscipit et.",
+              "block_title": "About our store",
+              "html_content": "Fellcy is built for those who move with purpose. Inspired by modern travel and everyday mobility, we design luggage and essentials that combine durability, smart functionality, and refined style. Every piece is crafted to support your journey—whether it’s a quick getaway, a business trip, or a new destination waiting to be explored.\n<br>\n<br>\nFrom thoughtful details to premium materials, Fellcy is made to elevate the way you travel—so you can move confidently, wherever life takes you.\n<br>\n<br>\nWe offer 24/7 dedicated customer support\n<br>\n📩 Contact: support@fellcy.com",
               "block_class": "mb-lg-50",
               "grid_xl": "col-xl-4",
               "grid_lg": "col-lg-9",

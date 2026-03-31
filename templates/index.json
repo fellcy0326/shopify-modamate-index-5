@@ -664,6 +664,13 @@
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-0": {
           "type": "tabitem",
           "settings": {
+            "tab_title": "All",
+            "collection_handle": "new-arrivals"
+          }
+        },
+        "tabitem_JkEtGf": {
+          "type": "tabitem",
+          "settings": {
             "tab_title": "Luggage",
             "collection_handle": "new-arrivals"
           }
@@ -699,6 +706,7 @@
       },
       "block_order": [
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-0",
+        "tabitem_JkEtGf",
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-1",
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-2",
         "tabitem_QeRYgM",

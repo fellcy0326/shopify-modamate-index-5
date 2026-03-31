@@ -866,6 +866,17 @@
     "d8b810c5-1e86-4f87-b456-ced41e248932": {
       "type": "nov-policy",
       "blocks": {
+        "item_policy_Y9zCi7": {
+          "type": "item_policy",
+          "settings": {
+            "policy_icon": "shopify://shop_images/p-12_200x_d6babb8c-4133-4bee-8f37-131ba8a4b504.webp",
+            "title_policy": "SECURE SHOPPING",
+            "desc_policy": "<p>All orders and personal info on or site are transmitted through a secure server using Secure Socket Layering (SSL).</p>",
+            "tl": "",
+            "link": "",
+            "class": ""
+          }
+        },
         "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-0": {
           "type": "item_policy",
           "settings": {
@@ -901,6 +912,7 @@
         }
       },
       "block_order": [
+        "item_policy_Y9zCi7",
         "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-0",
         "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-1",
         "d8b810c5-1e86-4f87-b456-ced41e248932-167912899432e14bae-2"
@@ -921,9 +933,9 @@
         "text_color": "#000000",
         "desc_color": "#000000",
         "desc_fz": 12,
-        "width_xl": "col-xl-4",
-        "width_lg": "col-lg-4",
-        "width_md": "col-md-4",
+        "width_xl": "col-xl-3",
+        "width_lg": "col-lg-3",
+        "width_md": "col-md-3",
         "width_sm": "col-sm-12",
         "width_xs": "col-12",
         "animate": true,

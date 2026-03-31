@@ -664,21 +664,35 @@
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-0": {
           "type": "tabitem",
           "settings": {
-            "tab_title": "New Arrivals",
+            "tab_title": "Luggage",
             "collection_handle": "new-arrivals"
           }
         },
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-1": {
           "type": "tabitem",
           "settings": {
-            "tab_title": "Best Sellers",
+            "tab_title": "Bags",
             "collection_handle": "funny-quote"
           }
         },
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-2": {
           "type": "tabitem",
           "settings": {
-            "tab_title": "On Sale",
+            "tab_title": "Shoes",
+            "collection_handle": "men"
+          }
+        },
+        "tabitem_QeRYgM": {
+          "type": "tabitem",
+          "settings": {
+            "tab_title": "Clothing",
+            "collection_handle": "men"
+          }
+        },
+        "tabitem_tRB6zb": {
+          "type": "tabitem",
+          "settings": {
+            "tab_title": "Accessories",
             "collection_handle": "men"
           }
         }
@@ -686,7 +700,9 @@
       "block_order": [
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-0",
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-1",
-        "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-2"
+        "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-2",
+        "tabitem_QeRYgM",
+        "tabitem_tRB6zb"
       ],
       "settings": {
         "heading": "<p>Best Sellers</p>",

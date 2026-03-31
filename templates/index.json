@@ -60,14 +60,14 @@
           "type": "item",
           "settings": {
             "icon": "zmdi zmdi-flash",
-            "t": "<p>FREE SHIPPING ON ALL US ORDER OR ORDER ABOVE $200</p>"
+            "t": "<p>LIMITED STOCK AVAILABLE — SHOP NOW</p>"
           }
         },
         "5a9cc39a-da0d-4f75-b10d-66da5b10f4cc": {
           "type": "item",
           "settings": {
             "icon": "zmdi zmdi-flash",
-            "t": "<p>FREE SHIPPING ON ALL US ORDER OR ORDER ABOVE $200</p>"
+            "t": "<p>NEW ARRIVALS JUST LANDED</p>"
           }
         }
       },

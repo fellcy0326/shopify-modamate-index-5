@@ -689,7 +689,7 @@
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-2"
       ],
       "settings": {
-        "heading": "<p>GOTTA HAVE IT</p>",
+        "heading": "<p>Best Sellers</p>",
         "heading_c": "#222222",
         "subheading": "",
         "subheading_c": "#666666",
@@ -847,6 +847,68 @@
         "class": "",
         "distance_top": 30,
         "distance_bottom": 120
+      }
+    },
+    "nov_collection_tabs_DpMxVG": {
+      "type": "nov-collection-tabs",
+      "blocks": {
+        "tabitem_TmhJMp": {
+          "type": "tabitem",
+          "settings": {
+            "tab_title": "New Arrivals",
+            "collection_handle": "new-arrivals"
+          }
+        },
+        "tabitem_KWa3Aj": {
+          "type": "tabitem",
+          "settings": {
+            "tab_title": "Best Sellers",
+            "collection_handle": "funny-quote"
+          }
+        },
+        "tabitem_k7Vy3q": {
+          "type": "tabitem",
+          "settings": {
+            "tab_title": "On Sale",
+            "collection_handle": "men"
+          }
+        }
+      },
+      "block_order": [
+        "tabitem_TmhJMp",
+        "tabitem_KWa3Aj",
+        "tabitem_k7Vy3q"
+      ],
+      "settings": {
+        "heading": "<p>GOTTA HAVE IT</p>",
+        "heading_c": "#222222",
+        "subheading": "",
+        "subheading_c": "#666666",
+        "title_alignment": "text-center",
+        "xxl": 3,
+        "xl": 3,
+        "lg": 3,
+        "md": 3,
+        "sm": 2,
+        "xs": 2,
+        "row_number": 1,
+        "row_mobile": 2,
+        "spacing": 30,
+        "show_dot": false,
+        "show_nav": true,
+        "nav_style": "style2",
+        "nav_c": "#909090",
+        "nav_ca": "#000000",
+        "nav_bg": "rgba(0,0,0,0)",
+        "nav_bga": "rgba(0,0,0,0)",
+        "nav_bd": "#e2e2e2",
+        "animate": false,
+        "snow": false,
+        "container": "container-full",
+        "background_color": "",
+        "class": "",
+        "distance_top": 95,
+        "distance_bottom": 85
       }
     },
     "f3383534-6809-4d13-9248-61b1ec35cbe1": {
@@ -1242,6 +1304,7 @@
     "80cd93df-e4f2-4f43-b2dd-49e03c87eb60",
     "8ca94ba4-99b0-4635-bf7c-c5347e242700",
     "edde0110-7127-4e43-acfb-dcdb0e2c51af",
+    "nov_collection_tabs_DpMxVG",
     "f3383534-6809-4d13-9248-61b1ec35cbe1",
     "d8b810c5-1e86-4f87-b456-ced41e248932",
     "e8069628-9f10-44e6-a4d5-1c7b466ba25c",

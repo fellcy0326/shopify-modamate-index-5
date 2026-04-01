@@ -679,8 +679,8 @@
         "has_fullwidth": false,
         "background_color": "",
         "class": "",
-        "distance_top": 30,
-        "distance_bottom": 30
+        "distance_top": 95,
+        "distance_bottom": 85
       }
     },
     "80cd93df-e4f2-4f43-b2dd-49e03c87eb60": {

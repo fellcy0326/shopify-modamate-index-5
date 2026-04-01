@@ -989,6 +989,31 @@
         "distance_bottom": 30
       }
     },
+    "nov_product_loadmore_B6hhap": {
+      "type": "nov-product-loadmore",
+      "name": "Vinova Product Load More",
+      "settings": {
+        "heading": "<p>NEW ARRIVALS</p>",
+        "heading_c": "#222222",
+        "subheading": "<p>Discover the latest arrivals, thoughtfully designed to elevate your everyday travel</p>",
+        "subheading_c": "#666666",
+        "title_alignment": "text-center",
+        "collection": "",
+        "limit": 8,
+        "xxl": 4,
+        "xl": 4,
+        "lg": 4,
+        "md": 4,
+        "sm": 4,
+        "xs": 2,
+        "loadmore": "",
+        "has_fullwidth": true,
+        "background_color": "",
+        "class": "",
+        "distance_top": 85,
+        "distance_bottom": 85
+      }
+    },
     "nov_collection_tabs_MDWiLg": {
       "type": "nov-collection-tabs",
       "blocks": {
@@ -1043,6 +1068,7 @@
         "tabitem_379dLb",
         "tabitem_tbHFn9"
       ],
+      "disabled": true,
       "settings": {
         "heading": "<p>NEW ARRIVALS</p>",
         "heading_c": "#222222",
@@ -1637,6 +1663,7 @@
     "edde0110-7127-4e43-acfb-dcdb0e2c51af",
     "nov_product_single_Hj3mLA",
     "f3383534-6809-4d13-9248-61b1ec35cbe1",
+    "nov_product_loadmore_B6hhap",
     "nov_collection_tabs_MDWiLg",
     "d8b810c5-1e86-4f87-b456-ced41e248932",
     "e8069628-9f10-44e6-a4d5-1c7b466ba25c",

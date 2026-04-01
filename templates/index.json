@@ -820,6 +820,8 @@
         "b28d5555-8555-476a-99d0-5cdcb296f7b1-16728939961f6f19b6-0": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/img-6_768x_18dec664-aeaa-4115-b6d4-7142d8f19cd6.png",
+            "img_xs": "shopify://shop_images/img-6_768x_18dec664-aeaa-4115-b6d4-7142d8f19cd6.png",
             "link": "#",
             "cta_label": "KIDS LUGGAGE",
             "cta_label_c": "#ffffff",

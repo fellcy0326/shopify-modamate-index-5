@@ -1011,7 +1011,7 @@
         "background_color": "",
         "class": "",
         "distance_top": 85,
-        "distance_bottom": 85
+        "distance_bottom": 40
       }
     },
     "nov_collection_tabs_MDWiLg": {
@@ -1181,7 +1181,7 @@
         "background_color": "",
         "bg_opacity": 100,
         "class": "",
-        "distance_top": 120,
+        "distance_top": 60,
         "distance_bottom": 140
       }
     },

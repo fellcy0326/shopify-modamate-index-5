@@ -658,11 +658,37 @@
         "distance_bottom": 30
       }
     },
+    "nov_product_loadmore_Amfgxb": {
+      "type": "nov-product-loadmore",
+      "name": "Vinova Product Load More",
+      "settings": {
+        "heading": "<p>CUSTOMER FAVORITES</p>",
+        "heading_c": "#222222",
+        "subheading": "<p>Discover our most loved pieces, chosen by customers for their quality and style</p>",
+        "subheading_c": "#666666",
+        "title_alignment": "text-center",
+        "collection": "",
+        "limit": 8,
+        "xxl": 4,
+        "xl": 4,
+        "lg": 4,
+        "md": 4,
+        "sm": 4,
+        "xs": 2,
+        "loadmore": "",
+        "has_fullwidth": false,
+        "background_color": "",
+        "class": "",
+        "distance_top": 30,
+        "distance_bottom": 30
+      }
+    },
     "80cd93df-e4f2-4f43-b2dd-49e03c87eb60": {
       "type": "nov-collection-tabs",
       "blocks": {
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-0": {
           "type": "tabitem",
+          "disabled": true,
           "settings": {
             "tab_title": "All",
             "collection_handle": "new-arrivals"
@@ -670,6 +696,7 @@
         },
         "tabitem_JkEtGf": {
           "type": "tabitem",
+          "disabled": true,
           "settings": {
             "tab_title": "Luggage",
             "collection_handle": "new-arrivals"
@@ -677,6 +704,7 @@
         },
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-1": {
           "type": "tabitem",
+          "disabled": true,
           "settings": {
             "tab_title": "Bags",
             "collection_handle": "new-arrivals"
@@ -684,6 +712,7 @@
         },
         "80cd93df-e4f2-4f43-b2dd-49e03c87eb60-1673844158b7e828ef-2": {
           "type": "tabitem",
+          "disabled": true,
           "settings": {
             "tab_title": "Shoes",
             "collection_handle": "new-arrivals"
@@ -691,6 +720,7 @@
         },
         "tabitem_QeRYgM": {
           "type": "tabitem",
+          "disabled": true,
           "settings": {
             "tab_title": "Clothing",
             "collection_handle": "new-arrivals"
@@ -698,6 +728,7 @@
         },
         "tabitem_tRB6zb": {
           "type": "tabitem",
+          "disabled": true,
           "settings": {
             "tab_title": "Accessories",
             "collection_handle": "new-arrivals"
@@ -712,6 +743,7 @@
         "tabitem_QeRYgM",
         "tabitem_tRB6zb"
       ],
+      "disabled": true,
       "settings": {
         "heading": "<p>CUSTOMER FAVORITES</p>",
         "heading_c": "#222222",
@@ -1599,6 +1631,7 @@
     "112c6ebf-0d3e-4474-a810-89df30908ec0",
     "7468b340-cf51-429f-bc51-4288984ba785",
     "b28d5555-8555-476a-99d0-5cdcb296f7b1",
+    "nov_product_loadmore_Amfgxb",
     "80cd93df-e4f2-4f43-b2dd-49e03c87eb60",
     "8ca94ba4-99b0-4635-bf7c-c5347e242700",
     "edde0110-7127-4e43-acfb-dcdb0e2c51af",

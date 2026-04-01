@@ -101,6 +101,7 @@
       "blocks": {
         "112c6ebf-0d3e-4474-a810-89df30908ec0-1671855192387fbb9b-0": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/s-4_2048x_653f1930-c37c-45d1-8c6e-ada5e6786fd2.png",
             "img_xs": "shopify://shop_images/s-4_2048x_653f1930-c37c-45d1-8c6e-ada5e6786fd2.png",
@@ -226,7 +227,7 @@
             "position_sm_img": "Width: 28%; Left:37%; Top: 6%",
             "position_xs_img": "Width: 23%; Left:39%; Top: 20%",
             "caption_1": "Engineered for the Journey Ahead",
-            "color_cap1": "#ffffff",
+            "color_cap1": "#000000",
             "fz_cap1_xxl": 26,
             "fz_cap1_xl": 24,
             "fz_cap1_lg": 22,
@@ -247,7 +248,7 @@
             "mb1_xs": 5,
             "cap_animate_1": "fadeInLeft",
             "caption_2": "Luggage",
-            "color_cap2": "#ffffff",
+            "color_cap2": "#000000",
             "fz_cap2_xxl": 60,
             "fz_cap2_xl": 50,
             "fz_cap2_lg": 40,
@@ -266,7 +267,7 @@
             "mb2_xs": 10,
             "cap_animate_2": "fadeInRight",
             "caption_3": "Premium materials, refined design, and smooth performance - crafted to elevate every trip.",
-            "color_cap3": "#ffffff",
+            "color_cap3": "#000000",
             "fz_cap3_xxl": 16,
             "fz_cap3_xl": 15,
             "fz_cap3_lg": 14,

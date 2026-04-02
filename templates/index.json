@@ -101,6 +101,7 @@
       "blocks": {
         "112c6ebf-0d3e-4474-a810-89df30908ec0-1671855192387fbb9b-0": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/s-4_2048x_653f1930-c37c-45d1-8c6e-ada5e6786fd2.png",
             "img_xs": "shopify://shop_images/s-4_2048x_653f1930-c37c-45d1-8c6e-ada5e6786fd2.png",
@@ -329,6 +330,7 @@
         },
         "image_hPE6KJ": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/s-5_2048x_653f1930-c37c-45d1-8c6e-ada5e6786fd2.png",
             "img_xs": "shopify://shop_images/s-5_2048x_653f1930-c37c-45d1-8c6e-ada5e6786fd2.png",
